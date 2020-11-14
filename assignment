@@ -1,0 +1,42 @@
+<html>
+    <head>
+<title>assignment</title>
+</head>
+
+<body>
+<table border="1">
+
+<thead>
+<tr>
+    <td>ID</td>
+    <td>name</td>
+    <td>>faculty</td>
+    <td>image</td>
+</tr>
+<tbody>
+    <tr>
+        <td colspan="2">
+            <li>20192959 </li>
+            <li>eyad abdellatif</li>
+        </td>
+        <td>computer seince</td>
+        <td>
+            <img scr="pc.jpg"hight="60"width="60"alt="this is eyad photo">
+        </td>
+    </tr>
+</tbody>
+
+</thead>
+
+
+
+</table>
+
+
+
+
+</body>
+
+
+
+</html>
